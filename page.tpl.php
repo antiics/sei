@@ -191,7 +191,7 @@
                             <h3>Data Structures</h3>
                             <p>Common data structures, use cases, analysis, and more.</p>
                             <div class="readmore">
-                                <a href="#">Read More</a>
+                                <a href="data-structures/">Read More</a>
                             </div>
                         </div>
                         <!--EOF: featured-item -->
@@ -202,7 +202,7 @@
                             <h3>Algorithms</h3>
                             <p>Algorithms, use cases, analysis, design, and more.</p>
                             <div class="readmore">
-                                <a href="#">Read More</a>
+                                <a href="algorithms/">Read More</a>
                             </div>
                         </div>
                         <!--EOF: featured-item -->              
@@ -217,7 +217,7 @@
                             <h3>Object-Oriented</h3>
                             <p>OO Principles, definitions, characteristics, and more.</p>
                             <div class="readmore">
-                                <a href="#">Read More</a>
+                                <a href="oop/">Read More</a>
                             </div>
                         </div>
                         <!--EOF: featured-item -->              
@@ -228,7 +228,7 @@
                             <h3>Design Patterns</h3>
                             <p>High level design architecture discussion.</p>
                             <div class="readmore">
-                                <a href="#">Read More</a>
+                                <a href="design-patterns/">Read More</a>
                             </div>
                         </div>
                         <!--EOF: featured-item -->   
@@ -238,10 +238,10 @@
                         <!--featured-item -->
                         <div class="one-half">
                             <img src="<?php print base_path() . drupal_get_path('theme', 'simplecorp') ;?>/images/featured/frameworks.png" class="img-align-left" alt="" />
-                            <h3>Framework</h3>
+                            <h3>Frameworks</h3>
                             <p>Read about industry-strength web application frameworks.</p>
                             <div class="readmore">
-                                <a href="#">Read More</a>
+                                <a href="frameworks/">Read More</a>
                             </div>
                         </div>
                         <!--EOF: featured-item -->
@@ -252,7 +252,7 @@
                             <h3>Languages</h3>
                             <p>C++, Java, Scala, Ruby, and more - read about languages and their uses.</p>
                             <div class="readmore">
-                                <a href="#">Read More</a>
+                                <a href="languages/">Read More</a>
                             </div>
                         </div>
 
